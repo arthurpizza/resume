@@ -30,7 +30,7 @@ _Jan 2013 - Present:_ - **Self-Employed, Long Beach, CA: Consultant/Developer**
 
 ### Community Affiliations
 
-Jan 2014 – Present: - **Uncoded, Long Beach, CA: Member and Volunteer**
+_Jan 2014_ – Present: - **Uncoded, Long Beach, CA: Member and Volunteer**
 
 - Co-Host weekly Hack Night
 - Organize job board for local freelancers and businesses
