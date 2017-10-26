@@ -2,7 +2,7 @@
 
 **Front-end Developer**
 
-`art@n0pe.org` - `(951) 999-5719` - `arthurreeder.org`
+`art@n0pe.org` - `(562) 392-0537` - `arthurreeder.org`
 
 ### Skills
 
