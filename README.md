@@ -8,6 +8,7 @@
 
 - Advanced Wordpress administration, including maintenance and error resolution
 - Expert in building, customizing, and deploying child and original themes
+- Front-end (HTML, CSS, BootScript, JavaScript, jQuery) and Some PHP and MySQL
 - SEO and Local SEO wizard
 
 ### Experience
