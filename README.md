@@ -13,7 +13,7 @@
 
 ### Experience
 
-_Dec 2013 - Present:_ - **Premazon, Long Beach, CA: Website Administrator**
+_Dec 2013 - Present:_ - **Premazon, Long Beach, CA: Technical Lead**
 
 - Design, build, and maintain 500+ Wordpress and HTML sites within a large marketing network
 - Rebuild corrupt Wordpress databases
@@ -31,8 +31,7 @@ _Jan 2013 - Present:_ - **Self-Employed, Long Beach, CA: Consultant/Developer**
 
 ### Community Affiliations
 
-_Jan 2014_ – Present: - **Uncoded, Long Beach, CA: Member and Volunteer**
+_Jan 2014_ – Present: - **Uncoded, Long Beach, CA: Board Member and Volunteer**
 
-- Co-Host weekly Hack Night
-- Organize job board for local freelancers and businesses
+- Co-Host weekly Hack Night and Co-Working group
 - Lead Designer, 2016 Hack Against Homelessness Project
