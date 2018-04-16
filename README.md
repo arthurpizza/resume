@@ -8,7 +8,7 @@
 
 - Advanced Wordpress administration, including maintenance and error resolution
 - Expert in building, customizing, and deploying child and original themes
-- Front-end (HTML, CSS, BootScript, JavaScript, jQuery) and Some PHP and MySQL
+- Front-end (HTML, CSS, BootStrap, JavaScript, jQuery) and Some PHP and MySQL
 - SEO and Local SEO wizard
 
 ### Experience
@@ -35,3 +35,4 @@ _Jan 2014_ – Present: - **Uncoded, Long Beach, CA: Board Member and Volunteer*
 
 - Co-Host weekly Hack Night and Co-Working group
 - Lead Designer, 2016 Hack Against Homelessness Project
+- Maintained booth representing organization at Scale x16
